@@ -1,52 +1,110 @@
 [
-    {
-        "fact": "The Great Wall of China is the longest wall in the world, stretching over 13,000 miles.",
-        "isTrue": true,
-        "source": "https://www.history.com/topics/ancient-china/great-wall-of-china"
-    },
-    {
-        "fact": "A group of unicorns is called a \"blessing.\"",
-        "isTrue": false,
-        "source": "https://www.rd.com/list/weird-names-for-groups-of-animals/"
-    },
-    {
-        "fact": "The ancient Egyptians used honey as a natural sweetener, and it was also used as a form of currency.",
-        "isTrue": true,
-        "source": "https://www.history.com/news/history-lists/10-things-you-may-not-know-about-ancient-egypt"
-    },
-    {
-        "fact": "The average human produces enough saliva in their lifetime to fill a swimming pool.",
-        "isTrue": false,
-        "source": "https://www.businessinsider.com/fun-facts-about-saliva-2014-2"
-    },
-    {
-        "fact": "The first recorded use of the word \"computer\" was in 1613 and referred to a person who performed calculations.",
-        "isTrue": true,
-        "source": "https://www.etymonline.com/word/computer"
-    },
-    {
-        "fact": "The tallest building in the world is actually a giant tree in the Amazon rainforest.",
-        "isTrue": false,
-        "source": "Trust me bro"
-    },
-    {
-        "fact": "The shortest reigning monarch in history was King Louis XIX of France, who ruled for just 20 minutes.",
-        "isTrue": true,
-        "source": "https://www.history.com/news/history-lists/7-shortest-reigns-in-history"
-    },
-    {
-        "fact": "The planet Jupiter has over 1,000 moons.",
-        "isTrue": false,
-        "source": "https://solarsystem.nasa.gov/moons/jupiter-moons/overview/"
-    },
-    {
-        "fact": "The first recorded Olympic games were held in ancient Greece in 776 BC.",
-        "isTrue": true,
-        "source": "https://www.history.com/topics/ancient-history/ancient-olympic-games"
-    },
-    {
-        "fact": "The world's largest pizza was made in Antarctica and was 10 miles long.",
-        "isTrue": false,
-        "source": "Trust me bro"
-    }
+  {
+    "id": 1,
+    "text": "The Great Barrier Reef, located off the coast of Australia, is the largest living structure on earth.",
+    "isFact": true,
+    "source": "https://www.worldwildlife.org/places/great-barrier-reef"
+  },
+  {
+    "id": 2,
+    "text": "Mount Everest, the highest peak in the world, stands at 29,029 feet (8,848 meters) tall.",
+    "isFact": true,
+    "source": "https://www.nationalgeographic.com/adventure/2021/03/mount-everest-is-still-the-tallest-mountain-in-the-world-heres-why/"
+  },
+  {
+    "id": 3,
+    "text": "The Sahara Desert, located in North Africa, is the largest hot desert in the world.",
+    "isFact": true,
+    "source": "https://www.worldatlas.com/articles/the-10-largest-deserts-in-the-world.html"
+  },
+  {
+    "id": 4,
+    "text": "The Amazon rainforest, located in South America, is the largest tropical rainforest in the world.",
+    "isFact": true,
+    "source": "https://www.worldwildlife.org/places/amazon"
+  },
+  {
+    "id": 5,
+    "text": "The Nile River, located in Africa, is the longest river in the world, stretching 4,135 miles (6,650 kilometers).",
+    "isFact": true,
+    "source": "https://www.britannica.com/place/Nile-River"
+  },
+  {
+    "id": 6,
+    "text": "The Pacific Ocean is the largest and deepest ocean on Earth.",
+    "isFact": true,
+    "source": "https://www.worldatlas.com/articles/the-largest-oceans-in-the-world.html"
+  },
+  {
+    "id": 7,
+    "text": "There are over 7,000 languages spoken in the world today.",
+    "isFact": true,
+    "source": "https://www.ethnologue.com/guides/how-many-languages"
+  },
+  {
+    "id": 8,
+    "text": "The Colosseum in Rome, Italy, is one of the largest amphitheaters ever built and is over 2,000 years old.",
+    "isFact": true,
+    "source": "https://www.history.com/topics/ancient-rome/colosseum"
+  },
+  {
+    "id": 9,
+    "text": "The Great Wall of China, one of the Seven Wonders of the World, stretches over 13,000 miles (21,000 kilometers).",
+    "isFact": true,
+    "source": "https://www.history.com/topics/ancient-china/great-wall-of-china"
+  },
+  {
+    "id": 10,
+    "text": "Antarctica is the coldest, driest, and windiest continent on Earth.",
+    "isFact": true,
+    "source": "https://www.britannica.com/place/Antarctica"
+  },
+  {
+    "id": 11,
+    "text": "The town of Churchill in Manitoba, Canada is known as the 'Polar Bear Capital of the World' due to the large number of polar bears that migrate through the area each year.",
+    "isFact": true,
+    "source": "https://www.travelmanitoba.com/blog/post/5-fascinating-facts-about-polar-bears-in-churchill-manitoba-canada/"
+  },
+  {
+    "id": 12,
+    "text": "The driest place on Earth is the Atacama Desert in Chile, where some areas have not received measurable rainfall in over 400 years.",
+    "isFact": true,
+    "source": "https://www.britannica.com/place/Atacama-Desert"
+  },
+  {
+    "id": 13,
+    "text": "Lake Baikal in Russia is the deepest lake in the world, with a depth of over 5,300 feet (1,620 meters).",
+    "isFact": true,
+    "source": "https://www.worldatlas.com/articles/the-deepest-lakes-in-the-world.html"
+  },
+  {
+    "id": 14,
+    "text": "The Gobi Desert, located in northern and northwestern China, is the largest desert in Asia.",
+    "isFact": true,
+    "source": "https://www.worldatlas.com/articles/the-10-largest-deserts-in-the-world.html"
+  },
+  {
+    "id": 15,
+    "text": "The world's oldest known living organism is a tree named Methuselah, which is over 4,800 years old and located in the White Mountains of California.",
+    "isFact": true,
+    "source": "https://www.nationalgeographic.com/science/2019/10/what-is-the-worlds-oldest-living-thing/"
+  },
+  {
+    "id": 16,
+    "text": "The island country of Palau in the western Pacific Ocean has a population of only about 18,000 people and is one of the smallest countries in the world.",
+    "isFact": true,
+    "source": "https://www.worldatlas.com/articles/the-smallest-countries-in-the-world.html"
+  },
+  {
+    "id": 17,
+    "text": "The world's largest known cave chamber is the Sarawak Chamber in Malaysia, which is over 2,300 feet (700 meters) long, 1,300 feet (396 meters) wide, and over 230 feet (70 meters) high.",
+    "isFact": true,
+    "source": "https://www.britannica.com/place/Sarawak-Chamber"
+  },
+  {
+    "id": 18,
+    "text": "The town of Rjukan in Norway is situated in a valley that is shaded by surrounding mountains for six months of the year, so they have built giant mirrors on the mountain to reflect sunlight onto the town square.",
+    "isFact": true,
+    "source": "https://www.nationalgeographic.com/travel/article/why-norways-never-ending-sunshine-isnt-as-great-as-it-sounds"
+  }
 ]
