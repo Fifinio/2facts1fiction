@@ -1,0 +1,52 @@
+[
+    {
+        "fact": "The Great Wall of China is the longest wall in the world, stretching over 13,000 miles.",
+        "isTrue": true,
+        "source": "https://www.history.com/topics/ancient-china/great-wall-of-china"
+    },
+    {
+        "fact": "A group of unicorns is called a \"blessing.\"",
+        "isTrue": false,
+        "source": "https://www.rd.com/list/weird-names-for-groups-of-animals/"
+    },
+    {
+        "fact": "The ancient Egyptians used honey as a natural sweetener, and it was also used as a form of currency.",
+        "isTrue": true,
+        "source": "https://www.history.com/news/history-lists/10-things-you-may-not-know-about-ancient-egypt"
+    },
+    {
+        "fact": "The average human produces enough saliva in their lifetime to fill a swimming pool.",
+        "isTrue": false,
+        "source": "https://www.businessinsider.com/fun-facts-about-saliva-2014-2"
+    },
+    {
+        "fact": "The first recorded use of the word \"computer\" was in 1613 and referred to a person who performed calculations.",
+        "isTrue": true,
+        "source": "https://www.etymonline.com/word/computer"
+    },
+    {
+        "fact": "The tallest building in the world is actually a giant tree in the Amazon rainforest.",
+        "isTrue": false,
+        "source": "Trust me bro"
+    },
+    {
+        "fact": "The shortest reigning monarch in history was King Louis XIX of France, who ruled for just 20 minutes.",
+        "isTrue": true,
+        "source": "https://www.history.com/news/history-lists/7-shortest-reigns-in-history"
+    },
+    {
+        "fact": "The planet Jupiter has over 1,000 moons.",
+        "isTrue": false,
+        "source": "https://solarsystem.nasa.gov/moons/jupiter-moons/overview/"
+    },
+    {
+        "fact": "The first recorded Olympic games were held in ancient Greece in 776 BC.",
+        "isTrue": true,
+        "source": "https://www.history.com/topics/ancient-history/ancient-olympic-games"
+    },
+    {
+        "fact": "The world's largest pizza was made in Antarctica and was 10 miles long.",
+        "isTrue": false,
+        "source": "Trust me bro"
+    }
+]
