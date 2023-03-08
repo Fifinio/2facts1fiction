@@ -1,1 +1,13 @@
-<p>game works!</p>
+<main>
+  <app-loading [time]="1000" *ngIf="isLoading"></app-loading>
+  <ng-container *ngIf="!isLoading">
+    <h1>Which of these is false?</h1>
+    <div class="container w-screen flex flex-row justify-evenly">
+      <app-infobutton
+        *ngFor="let info of round"
+        [information]="info"
+        (click)="onInfoClick(info)"
+      ></app-infobutton>
+    </div>
+  </ng-container>
+</main>

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "text": "The Mona Lisa was actually painted by Leonardo DiCaprio's great-grandfather",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 2,
+    "text": "The largest living organism in the world is a type of giant squid found in the Pacific Ocean",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 3,
+    "text": "The word 'jazz' originally came from an ancient Egyptian word meaning 'to dance with a snake'",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 4,
+    "text": "Cats can see in the dark because their eyes contain a special type of crystal that acts like a night-vision lens",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 5,
+    "text": "The Great Pyramid of Giza was originally built as a giant sundial to track the movements of the stars",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 6,
+    "text": "The first recorded use of the word 'hello' was in a Shakespearean play",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 7,
+    "text": "The tallest mountain in the world is actually located in Antarctica, not the Himalayas",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 8,
+    "text": "The first recorded instance of someone sneezing was in ancient Greece, and it was considered a sign of good luck",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 9,
+    "text": "The shortest war in history was fought between two countries that didn't actually exist",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 10,
+    "text": "The first known use of the hashtag symbol (#) was in a 19th century cookbook to indicate a recipe's level of spiciness",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 11,
+    "text": "The Mona Lisa was actually painted by Leonardo DiCaprio's great-grandfather",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 12,
+    "text": "The largest living organism in the world is a type of giant squid found in the Pacific Ocean",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 13,
+    "text": "The word 'jazz' originally came from an ancient Egyptian word meaning 'to dance with a snake'",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 14,
+    "text": "Cats can see in the dark because their eyes contain a special type of crystal that acts like a night-vision lens",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 15,
+    "text": "The Great Pyramid of Giza was originally built as a giant sundial to track the movements of the stars",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 16,
+    "text": "The first recorded use of the word 'hello' was in a Shakespearean play",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 17,
+    "text": "The tallest mountain in the world is actually located in Antarctica, not the Himalayas",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 18,
+    "text": "The first recorded instance of someone sneezing was in ancient Greece, and it was considered a sign of good luck",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 19,
+    "text": "The shortest war in history was fought between two countries that didn't actually exist",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 20,
+    "text": "The first known use of the hashtag symbol (#) was in a 19th century cookbook to indicate a recipe's level of spiciness",
+    "isFact": false,
+    "source": "made up"
+  },
+  {
+    "id": 21,
+    "text": "The tallest mountain in the world is actually located under the ocean and has never been climbed.",
+    "isFact": false,
+    "source": "Fiction."
+  },
+  {
+    "id": 22,
+    "text": "The ancient Egyptians used to worship a god that had the head of a giraffe.",
+    "isFact": false,
+    "source": "Imaginary deity."
+  },
+  {
+    "id": 23,
+    "text": "The rarest flower in the world can only be found on the top of Mount Everest.",
+    "isFact": false,
+    "source": "Fabricated claim."
+  },
+  {
+    "id": 24,
+    "text": "The first car ever built was actually powered by steam and was called the 'Steamobile'.",
+    "isFact": false,
+    "source": "Invented history."
+  }
+]
